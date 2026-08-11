@@ -1,6 +1,6 @@
 {
-  Name = "My cool mod" -- The Name So That The Engine Can Run It. Required, Obiviously.
-  Date = "00/00/0000" -- This Is Required So That The Engine Can Confrim It Was Made At A Vaild Time.
-  Creator = "Me" -- You. This Is Required So The Engine Can Confrim It's Creator
-  Layer = "0" -- The Higher The Layer, The More It'll Load On Top Of Everything. Only Do This If You Need A Script That Runs Faster Than Others.
+  "Name": "My cool mod",
+  "Date": "00/00/0000",
+  "Creator": "Me",
+  "Layer": "0"
 }
